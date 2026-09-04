@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://myoptions.org', status: 301, note: 'declared website redirects to https://www.encourageme.com/ — a different registrable domain (myoptions.org -> encourageme.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/admittedly.png
 name: Admittedly
 description: 'myOptions (myoptions.org redirects to encourageme.com; operated as the
